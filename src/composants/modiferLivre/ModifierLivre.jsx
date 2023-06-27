@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useParams } from 'react-router-dom';
+import { useParams,Link } from 'react-router-dom';
 import Navbar from '../Navbar/Navbar';
 
 const ModifierLivre = () => {
@@ -9,7 +9,7 @@ const ModifierLivre = () => {
   const [livre, setLivre] = useState({
     auteur: '',
     description: '',
-    prix: 0,
+    prix:null,
     titre: '',
   });
 
@@ -63,7 +63,7 @@ const ModifierLivre = () => {
       </form>
       <div>
         <button onClick={handleEnregistrer}>Enregistrer</button>
-        <button>Annuler</button>
+        <Link to={`/ListeLivres`}> <button> Annuler</button></Link>
       </div>
     </div>
   );

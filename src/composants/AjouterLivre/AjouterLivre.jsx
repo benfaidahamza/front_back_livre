@@ -2,14 +2,15 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import Navbar from '../Navbar/Navbar';
 import './AjouterLivre.css';
-import LivreListe from '../ListeLivre/Livreliste';
+import { useNavigate } from 'react-router-dom';
 
 const AjouterLivre = () => {
 
+  const navigate = useNavigate();
   const [livre, setLivre] = useState({
     auteur: '',
     description: '',
-    prix: 0,
+    prix: null,
     titre: '',
   });
 
@@ -21,6 +22,7 @@ const AjouterLivre = () => {
     axios.post('http://localhost:3001/ajouterLivre', livre)
       .then(response => {
         console.log('Le livre a été ajouté avec succès:', response.data);
+        navigate('/ListeLivres');
       })
       .catch(error => {
         console.error('Une erreur s\'est produite lors de l\'ajout du livre:', error);

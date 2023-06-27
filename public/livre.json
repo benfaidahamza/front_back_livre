@@ -1,5 +1,26 @@
 [
   {
+    "id": 1,
+    "titre": "Le Seigneur des Anneaux",
+    "auteur": "J.R.R. Tolkien",
+    "prix": 15.99,
+    "description": "Un roman épique de fantasy racontant l'histoire d'un groupe de héros luttant contre le mal."
+  },
+  {
+    "id": 2,
+    "titre": "Harry Potter à l'école des sorciers",
+    "auteur": "J.K. Rowling",
+    "prix": 12.50,
+    "description": "Le premier livre de la célèbre série Harry Potter, suivant les aventures d'un jeune sorcier."
+  },
+  {
+    "id": 3,
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "prix": 10.99,
+    "description": "Un roman dystopique décrivant une société sous un régime totalitaire."
+  },
+  {
     "id": 4,
     "titre": "Orgueil et Préjugés",
     "auteur": "Jane Austen",
@@ -10,8 +31,15 @@
     "id": 5,
     "titre": "Le Comte de Monte-Cristo",
     "auteur": "Alexandre Dumas",
-    "prix": 11.5,
+    "prix": 11.50,
     "description": "Un roman d'aventures captivant mettant en scène la vengeance d'un homme injustement emprisonné."
+  },
+  {
+    "id": 6,
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo",
+    "prix": 13.25,
+    "description": "Un chef-d'œuvre de la littérature française dépeignant la misère sociale et les aspirations humaines."
   },
   {
     "id": 7,
@@ -24,7 +52,7 @@
     "id": 8,
     "titre": "Les Fleurs du Mal",
     "auteur": "Charles Baudelaire",
-    "prix": 9.5,
+    "prix": 9.50,
     "description": "Recueil de poèmes explorant les thèmes de la beauté, de la passion et de la désillusion."
   },
   {
@@ -52,7 +80,7 @@
     "id": 12,
     "titre": "Les Trois Mousquetaires",
     "auteur": "Alexandre Dumas",
-    "prix": 12.5,
+    "prix": 12.50,
     "description": "Un récit d'aventures mettant en scène les exploits des mousquetaires du roi Louis XIII."
   },
   {
@@ -87,7 +115,7 @@
     "id": 17,
     "titre": "L'Étranger",
     "auteur": "Albert Camus",
-    "prix": 9.5,
+    "prix": 9.50,
     "description": "Un roman existentialiste explorant les thèmes de l'absurdité de l'existence et de l'aliénation."
   },
   {
@@ -108,7 +136,7 @@
     "id": 20,
     "titre": "Guerre et Paix",
     "auteur": "Léon Tolstoï",
-    "prix": 14.5,
+    "prix": 14.50,
     "description": "Un roman monumental retraçant l'histoire de la Russie pendant les guerres napoléoniennes."
   },
   {
@@ -122,7 +150,7 @@
     "id": 22,
     "titre": "Don Quichotte",
     "auteur": "Miguel de Cervantes",
-    "prix": 11.5,
+    "prix": 11.50,
     "description": "Un roman satirique mettant en scène les aventures d'un chevalier errant en quête de justice."
   },
   {
@@ -136,7 +164,7 @@
     "id": 24,
     "titre": "L'Odyssée",
     "auteur": "Homère",
-    "prix": 10.5,
+    "prix": 10.50,
     "description": "Un poème épique relatant les aventures d'Ulysse lors de son voyage de retour après la guerre de Troie."
   },
   {
@@ -164,7 +192,7 @@
     "id": 28,
     "titre": "Les Fleurs du Mal",
     "auteur": "Charles Baudelaire",
-    "prix": 9.5,
+    "prix": 9.50,
     "description": "Recueil de poèmes explorant les thèmes de la beauté, de la passion et de la désillusion."
   },
   {
@@ -180,12 +208,5 @@
     "auteur": "Mark Twain",
     "prix": 8.75,
     "description": "Un récit d'aventures mettant en scène un jeune garçon espiègle dans le Mississippi du XIXe siècle."
-  },
-  {
-    "auteur": "hamza",
-    "description": "a",
-    "prix": 0,
-    "titre": "q",
-    "id": 31
   }
 ]
