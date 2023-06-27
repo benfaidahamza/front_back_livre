@@ -1,0 +1,191 @@
+[
+  {
+    "id": 4,
+    "titre": "Orgueil et Préjugés",
+    "auteur": "Jane Austen",
+    "prix": 9.99,
+    "description": "Un classique de la littérature anglaise, explorant les relations sociales et les préjugés de l'époque."
+  },
+  {
+    "id": 5,
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "prix": 11.5,
+    "description": "Un roman d'aventures captivant mettant en scène la vengeance d'un homme injustement emprisonné."
+  },
+  {
+    "id": 7,
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "prix": 8.99,
+    "description": "Un conte philosophique sur l'amitié, l'amour et la quête de sens dans un monde complexe."
+  },
+  {
+    "id": 8,
+    "titre": "Les Fleurs du Mal",
+    "auteur": "Charles Baudelaire",
+    "prix": 9.5,
+    "description": "Recueil de poèmes explorant les thèmes de la beauté, de la passion et de la désillusion."
+  },
+  {
+    "id": 9,
+    "titre": "Le Rouge et le Noir",
+    "auteur": "Stendhal",
+    "prix": 10.99,
+    "description": "Un roman psychologique mettant en scène un jeune homme ambitieux cherchant à gravir l'échelle sociale."
+  },
+  {
+    "id": 10,
+    "titre": "Les Aventures de Tom Sawyer",
+    "auteur": "Mark Twain",
+    "prix": 8.75,
+    "description": "Un récit d'aventures mettant en scène un jeune garçon espiègle dans le Mississippi du XIXe siècle."
+  },
+  {
+    "id": 11,
+    "titre": "Le Grand Gatsby",
+    "auteur": "F. Scott Fitzgerald",
+    "prix": 11.99,
+    "description": "Un roman emblématique dépeignant les excès et la désillusion de l'Amérique des années 1920."
+  },
+  {
+    "id": 12,
+    "titre": "Les Trois Mousquetaires",
+    "auteur": "Alexandre Dumas",
+    "prix": 12.5,
+    "description": "Un récit d'aventures mettant en scène les exploits des mousquetaires du roi Louis XIII."
+  },
+  {
+    "id": 13,
+    "titre": "Le Meilleur des mondes",
+    "auteur": "Aldous Huxley",
+    "prix": 9.99,
+    "description": "Un roman dystopique explorant une société futuriste contrôlée par la manipulation génétique et l'endoctrinement."
+  },
+  {
+    "id": 14,
+    "titre": "Crime et Châtiment",
+    "auteur": "Fiodor Dostoïevski",
+    "prix": 10.99,
+    "description": "Un roman psychologique suivant les tourments d'un homme après avoir commis un meurtre."
+  },
+  {
+    "id": 15,
+    "titre": "Vingt mille lieues sous les mers",
+    "auteur": "Jules Verne",
+    "prix": 11.75,
+    "description": "Un roman d'aventures sous-marines racontant les exploits du capitaine Nemo et du Nautilus."
+  },
+  {
+    "id": 16,
+    "titre": "Le Nom de la rose",
+    "auteur": "Umberto Eco",
+    "prix": 12.99,
+    "description": "Un thriller médiéval mêlant intrigue, philosophie et histoire dans un monastère isolé."
+  },
+  {
+    "id": 17,
+    "titre": "L'Étranger",
+    "auteur": "Albert Camus",
+    "prix": 9.5,
+    "description": "Un roman existentialiste explorant les thèmes de l'absurdité de l'existence et de l'aliénation."
+  },
+  {
+    "id": 18,
+    "titre": "Moby Dick",
+    "auteur": "Herman Melville",
+    "prix": 13.25,
+    "description": "Un récit épique d'aventures maritimes et de la quête obsessionnelle d'un capitaine pour capturer une baleine blanche."
+  },
+  {
+    "id": 19,
+    "titre": "Les Raisins de la colère",
+    "auteur": "John Steinbeck",
+    "prix": 10.99,
+    "description": "Un roman social décrivant la lutte des travailleurs migrants pendant la Grande Dépression."
+  },
+  {
+    "id": 20,
+    "titre": "Guerre et Paix",
+    "auteur": "Léon Tolstoï",
+    "prix": 14.5,
+    "description": "Un roman monumental retraçant l'histoire de la Russie pendant les guerres napoléoniennes."
+  },
+  {
+    "id": 21,
+    "titre": "Les Hauts de Hurlevent",
+    "auteur": "Emily Brontë",
+    "prix": 9.99,
+    "description": "Une histoire passionnée et tourmentée d'amour et de vengeance dans les landes sauvages d'Angleterre."
+  },
+  {
+    "id": 22,
+    "titre": "Don Quichotte",
+    "auteur": "Miguel de Cervantes",
+    "prix": 11.5,
+    "description": "Un roman satirique mettant en scène les aventures d'un chevalier errant en quête de justice."
+  },
+  {
+    "id": 23,
+    "titre": "Les Quatre Filles du docteur March",
+    "auteur": "Louisa May Alcott",
+    "prix": 9.75,
+    "description": "Un récit émouvant suivant la vie et les aspirations de quatre sœurs pendant la guerre de Sécession."
+  },
+  {
+    "id": 24,
+    "titre": "L'Odyssée",
+    "auteur": "Homère",
+    "prix": 10.5,
+    "description": "Un poème épique relatant les aventures d'Ulysse lors de son voyage de retour après la guerre de Troie."
+  },
+  {
+    "id": 25,
+    "titre": "Les Mille et Une Nuits",
+    "auteur": "Anonyme",
+    "prix": 12.99,
+    "description": "Un recueil de contes orientaux empreints de magie et d'aventures exotiques."
+  },
+  {
+    "id": 26,
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo",
+    "prix": 13.99,
+    "description": "Un chef-d'œuvre de la littérature française dépeignant la misère sociale et les aspirations humaines."
+  },
+  {
+    "id": 27,
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "prix": 8.99,
+    "description": "Un conte philosophique sur l'amitié, l'amour et la quête de sens dans un monde complexe."
+  },
+  {
+    "id": 28,
+    "titre": "Les Fleurs du Mal",
+    "auteur": "Charles Baudelaire",
+    "prix": 9.5,
+    "description": "Recueil de poèmes explorant les thèmes de la beauté, de la passion et de la désillusion."
+  },
+  {
+    "id": 29,
+    "titre": "Le Rouge et le Noir",
+    "auteur": "Stendhal",
+    "prix": 10.99,
+    "description": "Un roman psychologique mettant en scène un jeune homme ambitieux cherchant à gravir l'échelle sociale."
+  },
+  {
+    "id": 30,
+    "titre": "Les Aventures de Tom Sawyer",
+    "auteur": "Mark Twain",
+    "prix": 8.75,
+    "description": "Un récit d'aventures mettant en scène un jeune garçon espiègle dans le Mississippi du XIXe siècle."
+  },
+  {
+    "auteur": "hamza",
+    "description": "a",
+    "prix": 0,
+    "titre": "q",
+    "id": 31
+  }
+]
